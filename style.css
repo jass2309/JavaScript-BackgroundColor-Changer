@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#body{
+  /* padding-top: 220px; */
+    height: 100vh;
+    width: 100vw;
+    background-color: red;
+   display: flex;
+   flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#one{
+    padding-top: 3px;
+    height: 30px;
+    width: 250px;
+   background-color: black;
+   color: white;
+   letter-spacing: 2px;
+    text-align: center;
+
+}
+
+#two{
+    margin-top: 20px;
+    padding-top: 3px;
+    width: 115px;
+    background-color: red;
+    letter-spacing: 2px;
+    text-align: center;
+}
